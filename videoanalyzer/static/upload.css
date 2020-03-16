@@ -1,0 +1,77 @@
+
+
+.addvideo{
+    font-family: 'Liu Jian Mao Cao';
+}
+
+.cont{
+    margin-top: 30px;
+    width: 500px;
+    border: solid;
+    border-radius:25px ;
+    
+}
+
+.btnnn{
+    margin-bottom: 20px;
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+}
+
+.name{
+    color:grey;
+    font-size: 20px;
+    font-family: 'Bellota';
+}
+
+.main{
+    background-color:#c2f0fc ;
+    padding-top: 0px;
+    position: relative;
+    padding: 100px;
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+
+
+.nav-wrapper{
+    background: #be79df;
+}
+
+.brand-logo{
+
+    padding-left: 10px;
+}
+
+.home{
+    margin-right: 10px;
+}
+
+.about{
+    margin-right:60px;
+}
+
+.padd{
+    font-family: 'Rubik', sans-serif;
+    font-size: 25px ;
+    
+}
+
+.collection{
+    border-radius:25px ;
+    width: 800px;
+    margin-left:100px;
+}
+
+.preload-wrapper{
+    padding-bottom: 20px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 20px;
+    font-family: 'Indie Flower', cursive;
+    color: #424874;
+}
+
